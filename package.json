@@ -1,0 +1,27 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "first node JS lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"this is the first nodejs lab\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoncheam/nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "https://github.com/simoncheam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simoncheam/nodejs/issues"
+  },
+  "homepage": "https://github.com/simoncheam/nodejs#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
